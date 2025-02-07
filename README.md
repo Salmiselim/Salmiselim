@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! My name is selim salmi</h1>
+<h1 align="center">Hi 👋! My name is Selim Salmi</h1>
 
 ###
 
-<h4 align="left">🚀 Passionate about coding and problem-solving, I thrive on learning new technologies and building innovative solutions.<br>📚 Exploring Angular and Spring Boot, expand my expertise.<br>📩 Reach me at salmiselim2016@gmail.com.</h4>
+<h4 align="left">🚀 Passionate about coding and problem-solving, I thrive on learning new technologies and building innovative solutions.<br>📚 Exploring Angular and Spring Boot to expand my expertise.<br>📩 Reach me at salmiselim2016@gmail.com.</h4>
 
 ###
 
@@ -50,9 +50,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/selimsalmi">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:salmiselim2016@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -61,12 +67,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Salmiselim/Salmiselim/output/snake.svg" alt="Snake animation" />
+
+![GitHub Snake Animation](https://github.com/Salmiselim/Salmiselim/blob/output/github-contribution-grid-snake.svg)
+
+📌 **Make sure that your GitHub Actions workflow for the snake animation is running correctly!**  
+Go to your repo → **Actions** → Check for any errors in the workflow.
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
+### 🎵 Spotify Recently Played
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=317j7cw5tzv6c7g2mddjk7xsm4ma)
 
-###
+
