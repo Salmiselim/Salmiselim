@@ -65,17 +65,3 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/236x/3c/e1/4a/3ce14ac1ee8ca62c7e10231c9e003457.jpg"  />
 
-###
-
-
-![GitHub Snake Animation](https://github.com/Salmiselim/Salmiselim/blob/output/github-contribution-grid-snake.svg)
-
-📌 **Make sure that your GitHub Actions workflow for the snake animation is running correctly!**  
-Go to your repo → **Actions** → Check for any errors in the workflow.
-
-###
-
-### 🎵 Spotify Recently Played
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=317j7cw5tzv6c7g2mddjk7xsm4ma)
-
-
