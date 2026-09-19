@@ -1,89 +1,199 @@
-<h1 align="center">Hi 👋 I'm Selim Salmi</h1>
+<div align="center">
 
-<h3 align="center">🎮 Gameplay Programmer · XR / VR Developer · Unity · C#</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Selim%20Salmi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Gameplay%20Programmer%20%E2%80%A2%20XR%20%2F%20VR%20Developer%20%E2%80%A2%20Unity%20%E2%80%A2%20C%23&descAlignY=55&descSize=16"/>
 
-###
-
-<h4 align="left">
-🕹️ I build games — from multiplayer XR board games to VR combat systems and stealth AI.<br>
-🔮 Currently developing <strong>MEGANOPOLY</strong>: a room-scale 4-player VR Monopoly with 8 Tunisian cultural mini-games.<br>
-⚔️ Also shipped <strong>Magic Arena</strong>: wave-based VR combat with voice-activated spellcasting and adaptive AI.<br>
-🌍 Seeking a Gameplay Programmer internship in Europe — February 2027.<br>
-📩 salmiselim2016@gmail.com · <a href="https://selim-salmi.tn">selim-salmi.tn</a>
-</h4>
-
-###
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salmiselim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salmiselim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<h4 align="left">🎮 Game Dev Stack</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
-</div>
-
-###
-
-<h4 align="left">🛠️ Full-Stack Background</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
-</div>
-
-###
-
-<h4 align="left">🕹️ Featured Projects</h4>
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎲 [MEGANOPOLY](https://github.com/Salmiselim/meganopoly) | Room-scale 4-player XR Monopoly with 8 Tunisian mini-games | Unity · C# · Meta Quest · Netcode |
-| 🔮 [Magic Arena](https://github.com/Salmiselim/magic-arena) | Wave-based VR combat — voice spellcasting + adaptive AI | Unity · C# · Meta Quest · XR Toolkit |
-| 🐱 [Cat Stealth Game](https://github.com/Salmiselim/cat-stealth) | Stealth NPC system — NavMesh cat hunts player-controlled bug | Unity · C# · NavMesh AI |
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/selim-salmi">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
   <a href="https://selim-salmi.tn">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=E94560&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-selim--salmi.tn-E94560?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/selim-salmi">
+    <img src="https://img.shields.io/badge/LinkedIn-selim--salmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:salmiselim2016@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-salmiselim2016-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://komarev.com/ghpvc/?username=Salmiselim&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+</div>
+
+---
+
+```javascript
+const selim = {
+  role:        "Gameplay Programmer Intern (Feb 2027)",
+  location:    "Tunisia → Europe 🌍",
+  engines:     ["Unity 6", "Unreal Engine (learning)"],
+  languages:   ["C#", "C++ (learning)", "Java", "Python", "JavaScript"],
+  xr:          ["Meta Quest", "Unity XR Toolkit", "VR Multiplayer"],
+  currentBuild: "MEGANOPOLY — 4-player XR Monopoly with Tunisian mini-games",
+  lookingFor:  "Gameplay Programmer internship in Spain 🇪🇸 / Europe",
+  funFact:     "I don't move tokens across a board — I build the board you walk inside"
+};
+```
+
+---
+
+<h2 align="center">🕹️ Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎲 MEGANOPOLY</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-6.x-black?logo=unity&style=flat-square" />
+        <img src="https://img.shields.io/badge/Meta%20Quest-XR-blue?logo=meta&style=flat-square" />
+        <img src="https://img.shields.io/badge/Multiplayer-4%20Players-purple?style=flat-square" />
+      </p>
+      <p align="center">
+        Room-scale 4-player VR Monopoly where players become life-sized avatars on a giant living board. Features <strong>8 original mini-games</strong> inspired by Tunisian culture — built with Unity Netcode and Meta XR SDK.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Salmiselim/meganopoly">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔮 Magic Arena</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-6.x-black?logo=unity&style=flat-square" />
+        <img src="https://img.shields.io/badge/Meta%20Quest-VR-blue?logo=meta&style=flat-square" />
+        <img src="https://img.shields.io/badge/Voice%20AI-Spellcasting-red?style=flat-square" />
+      </p>
+      <p align="center">
+        Wave-based VR combat with <strong>voice-activated spellcasting</strong>, elemental combos, adaptive enemy AI, and puzzle-gated progression. 3 levels × 3 waves. Built for Meta Quest.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Salmiselim/magic-arena">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐱 Cat Stealth Game</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-C%23-black?logo=unity&style=flat-square" />
+        <img src="https://img.shields.io/badge/NavMesh-AI-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/State%20Machine-Architecture-orange?style=flat-square" />
+      </p>
+      <p align="center">
+        Stealth game where a NavMesh-powered cat NPC hunts a player-controlled bug. Features a full AI state machine — patrol, detect, chase, search — built with Unity VCS and team collaboration.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Salmiselim/cat-stealth">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Lory's Passport</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-Mobile-black?logo=unity&style=flat-square" />
+        <img src="https://img.shields.io/badge/Self--Hosted-Backend-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/Minigame-Collection-yellow?style=flat-square" />
+      </p>
+      <p align="center">
+        Mobile minigame collection with a Nice-themed hub world. Features a self-hosted backend, cloud save architecture, and multiple standalone 2D minigames in Unity 6.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Salmiselim/lorys-passport">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h4 align="center">🎮 Game Development — Primary Focus</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" title="Unity" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" title="C#" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++ (learning)" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal" title="Unreal Engine (learning)" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" title="Blender" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
+</div>
+
+<br/>
+
+<h4 align="center">💻 Full-Stack Engineering — Secondary Skills</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="Angular" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="Spring" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="MySQL" />
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salmiselim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salmiselim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmiselim&theme=dracula&hide_border=false" height="160" />
+</div>
+
+---
+
+<h2 align="center">🎯 2027 Goal</h2>
+
+<div align="center">
+
+```
+Tunisia ──────────────────────────────────────────────────► Europe 🇪🇸
+   │                                                            │
+Now → Build           Sep–Nov 2026          Jan–Feb 2027        │
+      Portfolio    →  Apply to studios  →  Start internship     │
+      XR games        Spain · Italy          Gameplay           │
+      C++ project     Portugal · France      Programmer         │
+                      Romania                                    │
+                                                          Graduate 🎓
+                                                          + Career 🚀
+```
+
+</div>
+
+---
+
+<div align="center">
+  <a href="https://selim-salmi.tn">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-selim--salmi.tn-E94560?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/selim-salmi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:salmiselim2016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/236x/3c/e1/4a/3ce14ac1ee8ca62c7e10231c9e003457.jpg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
