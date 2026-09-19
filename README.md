@@ -19,6 +19,24 @@
 
 ---
 
+## 👾 About Me
+
+<img align="right" height="150" src="https://i.pinimg.com/236x/3c/e1/4a/3ce14ac1ee8ca62c7e10231c9e003457.jpg" />
+
+I'm a **Master's-level Software Engineering student** at **ESPRIT Tunisia** (Bac+5 Diplôme d'Ingénieur), specializing in **gameplay programming and XR/VR development**.
+
+My path started in full-stack engineering — React, Angular, Java, Spring Boot — but the moment I built my first Unity project, I knew where I was heading. Today I focus on what actually excites me: **building systems that players feel**, not just code that compiles.
+
+🎮 I've shipped a **4-player multiplayer VR board game** for Meta Quest with 8 original mini-games rooted in Tunisian culture, and a **voice-activated VR combat system** with adaptive AI — both personal projects, both built from scratch.
+
+🧠 I think in systems: how inputs create feedback, how rules generate emergent behavior, how a well-tuned game loop keeps players in flow state. My full-stack background means I can connect gameplay to backends, build editor tools, and work across the entire pipeline.
+
+🌍 I'm fluent in **English**, **French**, and **Arabic**, currently learning Spanish. I'm seeking a **Gameplay Programmer internship in Europe** starting **February 2027**, eligible for professional internship visas in Spain, France, Italy, and Portugal.
+
+> *"I don't move tokens across a board — I build the board you walk inside."*
+
+---
+
 <h2 align="center">🕹️ Featured Projects</h2>
 
 <div align="center">
