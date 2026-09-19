@@ -89,17 +89,6 @@ const selim = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 Lory's Passport</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Unity-Mobile-black?logo=unity&style=flat-square" />
-        <img src="https://img.shields.io/badge/Self--Hosted-Backend-teal?style=flat-square" />
-        <img src="https://img.shields.io/badge/Minigame-Collection-yellow?style=flat-square" />
-      </p>
-      <p align="center">
-        Mobile minigame collection with a Nice-themed hub world. Features a self-hosted backend, cloud save architecture, and multiple standalone 2D minigames in Unity 6.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Salmiselim/lorys-passport">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
@@ -160,26 +149,6 @@ const selim = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmiselim&theme=dracula&hide_border=false" height="160" />
-</div>
-
----
-
-<h2 align="center">🎯 2027 Goal</h2>
-
-<div align="center">
-
-```
-Tunisia ──────────────────────────────────────────────────► Europe 🇪🇸
-   │                                                            │
-Now → Build           Sep–Nov 2026          Jan–Feb 2027        │
-      Portfolio    →  Apply to studios  →  Start internship     │
-      XR games        Spain · Italy          Gameplay           │
-      C++ project     Portugal · France      Programmer         │
-                      Romania                                    │
-                                                          Graduate 🎓
-                                                          + Career 🚀
-```
-
 </div>
 
 ---
