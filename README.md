@@ -95,10 +95,7 @@ My path started in full-stack engineering — React, Angular, Java, Spring Boot 
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salmiselim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salmiselim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmiselim&theme=dracula&hide_border=false" height="160" />
