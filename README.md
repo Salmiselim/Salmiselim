@@ -19,82 +19,17 @@
 
 ---
 
-```javascript
-const selim = {
-  role:        "Gameplay Programmer Intern (Feb 2027)",
-  location:    "Tunisia → Europe 🌍",
-  engines:     ["Unity 6", "Unreal Engine (learning)"],
-  languages:   ["C#", "C++ (learning)", "Java", "Python", "JavaScript"],
-  xr:          ["Meta Quest", "Unity XR Toolkit", "VR Multiplayer"],
-  currentBuild: "MEGANOPOLY — 4-player XR Monopoly with Tunisian mini-games",
-  lookingFor:  "Gameplay Programmer internship in Spain 🇪🇸 / Europe",
-  funFact:     "I don't move tokens across a board — I build the board you walk inside"
-};
-```
-
----
-
 <h2 align="center">🕹️ Featured Projects</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎲 MEGANOPOLY</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Unity-6.x-black?logo=unity&style=flat-square" />
-        <img src="https://img.shields.io/badge/Meta%20Quest-XR-blue?logo=meta&style=flat-square" />
-        <img src="https://img.shields.io/badge/Multiplayer-4%20Players-purple?style=flat-square" />
-      </p>
-      <p align="center">
-        Room-scale 4-player VR Monopoly where players become life-sized avatars on a giant living board. Features <strong>8 original mini-games</strong> inspired by Tunisian culture — built with Unity Netcode and Meta XR SDK.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Salmiselim/meganopoly">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔮 Magic Arena</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Unity-6.x-black?logo=unity&style=flat-square" />
-        <img src="https://img.shields.io/badge/Meta%20Quest-VR-blue?logo=meta&style=flat-square" />
-        <img src="https://img.shields.io/badge/Voice%20AI-Spellcasting-red?style=flat-square" />
-      </p>
-      <p align="center">
-        Wave-based VR combat with <strong>voice-activated spellcasting</strong>, elemental combos, adaptive enemy AI, and puzzle-gated progression. 3 levels × 3 waves. Built for Meta Quest.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Salmiselim/magic-arena">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🐱 Cat Stealth Game</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Unity-C%23-black?logo=unity&style=flat-square" />
-        <img src="https://img.shields.io/badge/NavMesh-AI-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/State%20Machine-Architecture-orange?style=flat-square" />
-      </p>
-      <p align="center">
-        Stealth game where a NavMesh-powered cat NPC hunts a player-controlled bug. Features a full AI state machine — patrol, detect, chase, search — built with Unity VCS and team collaboration.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Salmiselim/cat-stealth">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🎲 MEGANOPOLY | 🔮 Magic Arena | 🐱 Cat Stealth Game |
+|:---:|:---:|:---:|
+| ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&style=flat-square) ![Meta Quest](https://img.shields.io/badge/Meta%20Quest-XR-blue?logo=meta&style=flat-square) ![Multiplayer](https://img.shields.io/badge/4%20Players-purple?style=flat-square) | ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&style=flat-square) ![VR](https://img.shields.io/badge/Meta%20Quest-VR-blue?logo=meta&style=flat-square) ![Voice](https://img.shields.io/badge/Voice%20AI-red?style=flat-square) | ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&style=flat-square) ![NavMesh](https://img.shields.io/badge/NavMesh-AI-green?style=flat-square) ![AI](https://img.shields.io/badge/State%20Machine-orange?style=flat-square) |
+| Room-scale 4-player VR Monopoly. Players become life-sized avatars on a giant living board. **8 original mini-games** inspired by Tunisian culture. | Wave-based VR combat with **voice-activated spellcasting**, elemental combos, adaptive enemy AI, and puzzle-gated progression. | Stealth game — NavMesh cat NPC hunts a player-controlled bug through a full AI state machine: patrol → detect → chase → search. |
+| [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Salmiselim/meganopoly) | [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Salmiselim/magic-arena) | [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Salmiselim/cat-stealth) |
+
+</div>
 
 ---
 
